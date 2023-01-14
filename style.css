@@ -21,6 +21,7 @@ body{
     font-family: Orkney;
     width: 100vw;
     height: 100vh;
+    background-color:#151724;
 }
 
 header{
@@ -100,6 +101,7 @@ main{
 .ola {
     display: flex;
     flex-direction: row;
+    text-align: justify;
 }
 
 .formacao, .projetos, .hobbies {
@@ -202,6 +204,10 @@ main section{
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+        background-color: #040303;
+        z-index: 90;
+        position:relative;
+        top: 0;
     }
 
     #menu h2 {
@@ -231,8 +237,8 @@ main section{
     nav{
         z-index: 5;
         position: absolute;
-        top: -100vh;
-        transition: 1s;
+        top: -22vh;
+        transition: top 0.4s ease-in;
         width: 100vw;
         background-color: #040303;
     }
@@ -240,4 +246,7 @@ main section{
     .expandida{
         top: 3rem;
     }
+}
+
+@media (max-height: 770px) {
 }
