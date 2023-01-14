@@ -1,0 +1,42 @@
+<section>
+    <img src="imgs/Eloy.jpg" alt="sou eu ai" id="minha-foto">
+    <h3>Me contate:</h3>
+    <div id="contatos">
+        <a href="https://github.com/El0y-C0SM0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
+        <a href="mailto:eloymaciel06@gmail.com"><img src="imgs/gmail.wine.svg" alt="meu email"></a>
+        <a href="https://www.instagram.com/el0y_c0sm0/"><img src="imgs/instagram.svg" alt="meu instagram"></a>
+    </div>
+</section>
+<section>
+    <h1>Bão?!</h1>
+    <p>Prazer, me chamo Eloy e aqui tem algumas informações sobre mim.</p>
+</section>
+
+
+<section>
+            <img src="imgs/Eloy.jpg" alt="sou eu ai" id="minha-foto">
+            <h3>Me contate:</h3>
+            <div id="contatos">
+                <a href="https://github.com/El0y-C0SM0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /></a>
+                <a href="mailto:eloymaciel06@gmail.com"><img src="imgs/gmail.wine.svg" alt="meu email"></a>
+                <a href="https://www.instagram.com/el0y_c0sm0/"><img src="imgs/instagram.svg" alt="meu instagram"></a>
+            </div>
+        </section>
+        <!--Colocar aqui uma apresentação-->
+        <section>
+            <h1>Bão?!</h1>
+            <p>Prazer, me chamo Eloy e aqui tem algumas informações sobre mim.</p>
+        </section>
+
+
+<h1>Projetos em que trabalhei</h1>
+        <dl>
+            <dt><a href="https://el0y-c0sm0.github.io/Casa-do-Hobbit/"><strong>Casa do Hobbit</strong></a></dt>
+            <dd>Meu primeiro trabalho prático. É uma apresentação as regras e detalhes do sistema de rpg D&D (Dungeons and Dragons). Esse guia apresenta as principais regras para começar a jogar</dd>
+            <dt><a href="https://edu15076.github.io/xadrez/"><strong>Chess</strong></a></dt>
+            <dd>Um site para jogar xadrez, contra uma engine ou contra outro player presencialmente. O site conta com um sistema de login no navegador que contabiliza pontos e salva configurações.</dd>
+            <dt><a href="https://github.com/El0y-C0SM0/RPG-Tools"><strong>RPG Tools</strong></a></dt>
+            <dd>Uma série de aplicações para console, feitas em C, para auxiliar jogadores de rpg, idependente de qual. São três programas que podem ser acessados a partir de um programa que gerencia a aplicação. São esses programas um sistema para rolar dados, uma calculadora básica e um sistema de registro para armas.</dd>
+            <dt><a href=""><strong>Cosmos Owl</strong></a></dt>
+            <dd>Uma extensão de tema de cor para o vs code inspirada na extensão Omni Owl.</dd>
+        </dl>
