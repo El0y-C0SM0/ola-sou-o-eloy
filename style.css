@@ -143,6 +143,7 @@ main section{
 
 #minha-foto{
     height: 40vh;
+    border: 2px #040303 solid;
 }
 
 #contatos{

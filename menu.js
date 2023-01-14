@@ -13,9 +13,9 @@ let conteudo = {
 </section>\
 <section>\
     <h1>Bão?!</h1>\
-    <p>Prazer, me chamo Eloy e aqui tem algumas informações sobre mim.</p>\
-    <p>Lorem ipsum vulputate aptent leo vel sodales fringilla viverra convallis quis, dapibus tempor fermentum integer lacus porta netus porta lorem quisque purus, proin fusce curabitur eros vulputate convallis quam curabitur taciti. habitant vel vestibulum congue a non tempus, lacus potenti proin ultricies venenatis, rhoncus malesuada habitasse mollis mattis. est semper dictumst sagittis venenatis ligula sollicitudin sem integer, laoreet integer cubilia nunc cubilia dolor in purus laoreet, conubia lacus aliquet sociosqu massa malesuada litora. himenaeos lobortis erat posuere lacinia sociosqu pellentesque phasellus tortor, etiam egestas ligula torquent convallis litora volutpat nam, sodales dictum sed auctor senectus taciti tempor. </p>\
-    <p>Faucibus at nec eget primis lacus blandit enim, in enim etiam orci ut feugiat leo semper, curae etiam torquent scelerisque maecenas fermentum. blandit ipsum purus imperdiet sodales tempus dictumst nibh consequat risus, vestibulum euismod vivamus cras curabitur tristique aenean blandit, vitae ac molestie feugiat interdum quisque dapibus curabitur. quis tincidunt scelerisque litora consectetur curabitur nisi fermentum, morbi at porta sodales iaculis proin fermentum odio, hac pellentesque tempor senectus mattis magna. rutrum tempus posuere enim elementum nullam primis, vulputate nullam velit luctus duis vehicula, ante vestibulum sit donec euismod. potenti justo sit sem torquent dictum himenaeos per urna, donec velit blandit imperdiet ornare etiam. </p>\
+    <p>Prazer, me chamo Eloy, sou aluno do segundo ano do curso integrado (médio e técnico) do CEFET-MG. Sou alguém fascinado por tecnologia e computação desde novo, sempre tendo disposição para aprender mais sobre, acho simplesmente incrivel o que dá para fazer com a tecnologia.</p>\
+    <h1>Por que quero participar?</h1>\
+    <p>Gostária de participar para aprender mais sobre programação na prática, além de adquirir experiencia com projetos em grupo e me tornar um profissional mais completo. Para isso me dedicarei no trabalho, irei estudar para realizar para ter um bom entendimento dos códigos e ser capaz de contribuir da melhor maneira.</p>\
 </section>`,
     formacao: `<p><strong>Cursando:</strong> 2° ano do curso integrado de informática no CEFET-MG</p>\
     <p><strong>Tenho Experiencia Com:</strong></p>\
@@ -27,7 +27,7 @@ let conteudo = {
     </ul>\
     <p><strong>Tenho Noção ou estou estudando:</strong></p>\
     <ul>\
-        <li>Phython, já fiz exercios, resolvi problemas e usei para otimizar alguns processos em eventuais atividades que já realizei. Também tenho familiaridade com Jupyter e Django</li>\
+        <li>Phython, já fiz exercios, resolvi problemas e usei para otimizar alguns processos em eventuais atividades que já realizei. Também tenho familiaridade com Jupyter e Django. Atualmente estou fazendo um bot para o dicord usando a linguagem, projeto ainda sem data de publicação.</li>\
         <li>Markdown, já usei em varias ocasiões para documentar projetos e fazer anotações</li>\
         <li>Estou estudando programação orientada a objetos</li>\
     </ul>`,
@@ -39,7 +39,7 @@ let conteudo = {
             <dd>Um site para jogar xadrez, contra uma engine ou contra outro player presencialmente. O site conta com um sistema de login no navegador que contabiliza pontos e salva configurações.</dd>\
             <dt><a href="https://github.com/El0y-C0SM0/RPG-Tools"><strong>RPG Tools</strong></a></dt>\
             <dd>Uma série de aplicações para console, feitas em C, para auxiliar jogadores de rpg, idependente de qual. São três programas que podem ser acessados a partir de um programa que gerencia a aplicação. São esses programas um sistema para rolar dados, uma calculadora básica e um sistema de registro para armas.</dd>\
-            <dt><a href=""><strong>Cosmos Owl</strong></a></dt>\
+            <dt><a href="https://marketplace.visualstudio.com/items?itemName=el0yc0sm0.comos-owl"><strong>Cosmos Owl</strong></a></dt>\
             <dd>Uma extensão de tema de cor para o vs code inspirada na extensão Omni Owl.</dd>\
         </dl>`
 }
