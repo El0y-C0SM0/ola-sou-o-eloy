@@ -27,7 +27,7 @@ let conteudo = {
     </ul>\
     <p><strong>Tenho Noção ou estou estudando:</strong></p>\
     <ul>\
-        <li>Phython, já fiz exercios, resolvi problemas e usei para otimizar alguns processos em eventuais atividades que já realizei. Também tenho familiaridade com Jupyter e Django. Atualmente estou fazendo um bot para o dicord usando a linguagem, projeto ainda sem data de publicação.</li>\
+        <li>Phython, já fiz exercios, resolvi problemas e usei para otimizar alguns processos em eventuais atividades que já realizei. Também tenho familiaridade com Jupyter e Django. Recentemente fiz um bot para o discord usando a linguagem e também fiz uma pagina para ele, para ver vá na aba <strong>Projetos</strong></li>\
         <li>Markdown, já usei em varias ocasiões para documentar projetos e fazer anotações</li>\
         <li>Estou estudando programação orientada a objetos</li>\
     </ul>`,
@@ -39,6 +39,8 @@ let conteudo = {
             <dd>Um site para jogar xadrez, contra uma engine ou contra outro player presencialmente. O site conta com um sistema de login no navegador que contabiliza pontos e salva configurações.</dd>\
             <dt><a href="https://github.com/El0y-C0SM0/RPG-Tools"><strong>RPG Tools</strong></a></dt>\
             <dd>Uma série de aplicações para console, feitas em C, para auxiliar jogadores de rpg, idependente de qual. São três programas que podem ser acessados a partir de um programa que gerencia a aplicação. São esses programas um sistema para rolar dados, uma calculadora básica e um sistema de registro para armas.</dd>\
+            <dt><a href="https://el0y-c0sm0.github.io/rpg-tools-dice-bot/site/"><strong>RPG Tools - Dice Bot</strong></a></dt>\
+            <dd>Um bot do discord para rolar dados e ajudar nos jogos de RPG.</dd>\
             <dt><a href="https://marketplace.visualstudio.com/items?itemName=el0yc0sm0.comos-owl"><strong>Cosmos Owl</strong></a></dt>\
             <dd>Uma extensão de tema de cor para o vs code inspirada na extensão Omni Owl.</dd>\
         </dl>`
